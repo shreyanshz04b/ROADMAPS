@@ -1,10 +1,5 @@
-# Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/liuchong/awesome-roadmaps.svg?branch=master)](https://travis-ci.org/liuchong/awesome-roadmaps)
 
 A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
-
-Contributions welcome.
-Add links through pull requests or create an issue to start a discussion.
-Please read [contribution guidelines](contributing.md), thank you!
 
 ## Contents
 
@@ -65,6 +60,4 @@ Please read [contribution guidelines](contributing.md), thank you!
 ## Articles
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
-## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
